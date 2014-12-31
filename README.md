@@ -1,6 +1,8 @@
 # Dotfiles
 
-My OSX / Ubuntu dotfiles.
+[Someone else's](https://github.com/cowboy/dotfiles) OSX / Ubuntu dotfiles. Awesomely enough, this is very similar to something I wanted to write myself a few years ago. Quite nice to come back to it years later and find someone else has done it!
+
+All pronoun references to self below aren't me yet. I'll work on that. 
 
 ## About this project
 
